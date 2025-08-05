@@ -37,11 +37,11 @@ Pillow PIL for displaying images in Tkinter
 
 Project Structure
 
-shape_detection_app.py which is the main Python script
+final.py which is the main Python script
 
 README.md which contains project documentation
 
-requirements.txt for listing required Python packages
+
 
 Installation and Setup Instructions
 1 Clone the repository using git clone and navigate to the project directory
